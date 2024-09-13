@@ -21,6 +21,11 @@
     gap: 40px;
 }
 
+.encabezado__navegacion ul {
+    display: flex;
+    gap: 40px;
+    flex-direction: row;
+}
 .encabezado__navegacion--elemento {
     color: var(--blanco);
     font-size: 24px;
